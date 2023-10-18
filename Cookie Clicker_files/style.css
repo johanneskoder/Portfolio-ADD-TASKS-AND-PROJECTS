@@ -1,0 +1,39 @@
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: lightblue;
+}
+
+#buttons {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#count {
+    display: flex;
+    justify-content: center;
+}
+
+.actualFirstMessageStyling {
+    color: palevioletred;
+}
+
+.firstMessageStyling {
+    color: coral;
+}
+
+.secondMessageStyling {
+    color: darkorange;
+}
+
+.secondAndAHalfMessageStyling {
+    color: red;
+}
+
+.thirdMessageStyling {
+    color: green;
+}
